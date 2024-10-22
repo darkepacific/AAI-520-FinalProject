@@ -10,7 +10,7 @@ In this project, we aimed to fine-tune GPT-2 using the Cornell Movie Dialogs Cor
  4. Removal of any dialogues under 5 characters
 
 # Training 
- - 31 total Epoch
+ - 31 total Epochs
 
 # Results and Conclusion
 After training for 31 epochs, the chatbot demonstrated significant improvements, as reflected by strong performance across key metrics such as a BLEU score of 92.00, ROUGE-1 of 96.61, and a BERTScore F1 of 99.39, and a METEOR score of 98.39.
